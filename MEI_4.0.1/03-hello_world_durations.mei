@@ -36,8 +36,8 @@
                                     <note pname="c" oct="4" dur="16"/>
                                     <note pname="c" oct="4" dur="32"/>
                                     <note pname="c" oct="4" dur="64"/>
-                                    <note pname="c" oct="4" dur="128"/>
-                                    <note pname="c" oct="4" dur="128"/>
+                                    <note pname="c" oct="4" dur="128"/>                                    
+                                    <note pname="c" oct="4" dur="256"/>
                                 </layer>
                             </staff>
                         </measure>
