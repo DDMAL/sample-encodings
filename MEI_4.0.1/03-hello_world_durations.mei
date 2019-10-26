@@ -38,6 +38,11 @@
                                     <note pname="c" oct="4" dur="64"/>
                                     <note pname="c" oct="4" dur="128"/>                                    
                                     <note pname="c" oct="4" dur="256"/>
+                                    <!-- Not currently supported by Verovio
+                                    <note pname="c" oct="4" dur="512"/>
+                                    <note pname="c" oct="4" dur="1024"/>
+                                    <note pname="c" oct="4" dur="2048"/>
+                                    !-->
                                 </layer>
                             </staff>
                         </measure>
