@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/4.0.1/mei-CMN.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://music-encoding.org/schema/4.0.1/mei-CMN.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<mei xml:id="xd54de9f7-c031-4829-b3c6-2cb53f4e27e4" xmlns="http://www.music-encoding.org/ns/mei">
+    <meiHead xml:id="x8291553c-c3da-416d-afaa-1da81f490a55">
+        <fileDesc xml:id="x4efda21a-5512-4463-b47d-2302e32a856f">
+            <titleStmt xml:id="x0e00b430-4505-4207-94d2-4d61b02a0acd">
+                <title xml:id="x7276ca17-303c-4864-b06b-00bd48b14eb8">Hello world, MEI!</title>
+            </titleStmt>
+            <pubStmt/>
+        </fileDesc>
+    </meiHead>
+    <music xml:id="xc0a7827f-2232-4b2f-b4b7-c991c222ebd8">
+        <body xml:id="xf08b06d6-1bbe-47f4-80ae-5b2541a09925">
+            <mdiv xml:id="xb67d0040-29d7-4f12-8d0c-2e742379a751">
+                <score xml:id="xcf0604b4-63f6-4564-b0b5-24a955baa268">
+                    <scoreDef xml:id="x413e3ba9-f839-45fb-8707-3586b23bc902" n="1" key.sig="0" meter.count="4" meter.unit="4">
+                        <staffGrp xml:id="x9a0e88a9-2f50-4e7b-b600-1da827b7fd30">
+                            <staffDef xml:id="x092c85f5-bb74-4510-b3b3-6f473980a2e0" n="1" lines="5" clef.line="2" clef.shape="G"/>
+                        </staffGrp>
+                    </scoreDef>
+                    <section xml:id="xbfc4b7b1-416e-4c51-870e-8d6aa357ff08">
+                        <measure xml:id="x1f530fe0-051e-4023-b517-eddb4bd7274f">
+                            <staff xml:id="x78729844-85ad-4535-81a0-f9a7e70ea1ea">
+                                <layer xml:id="xd841f525-cdf5-4dd8-ae77-c2f0669a7d54">
+                                    <note xml:id="x2c81eaf3-eb3b-4ff5-92c4-da659880f39a" pname="c" oct="4" dur="1"/>
+                                </layer>
+                            </staff>
+                        </measure>
+                        <measure xml:id="x95e5dee5-dbe4-4998-ba42-75e06bfb8068">
+                            <staff xml:id="x6a6980cf-2adc-4429-ac9e-fac396116eba">
+                                <layer xml:id="xc8c7e78c-a3a5-48f9-a1a1-ac63ea7f7dca">
+                                    <note xml:id="x42e44da8-9175-4152-81a1-dc44d603907f" pname="c" oct="4" dur="2"/>
+                                    <note xml:id="x7facc733-d815-441f-9a10-0b294b1837ae" pname="c" oct="4" dur="4"/>
+                                    <note xml:id="xf762bd35-20e1-4565-881a-2ccce004b91b" pname="c" oct="4" dur="8"/>
+                                    <note xml:id="xb9e742a1-b772-420f-b51b-1391f6ccb303" pname="c" oct="4" dur="16"/>
+                                    <note xml:id="xa98f2619-8cc4-4a8d-916d-d42bf08b7742" pname="c" oct="4" dur="32"/>
+                                    <note xml:id="xaf255bc7-baa0-4d0d-bb94-eb61f7945cfd" pname="c" oct="4" dur="64"/>
+                                    <note xml:id="xad3c7470-cb4c-48dd-a940-9fe0b2050637" pname="c" oct="4" dur="128"/>                                    
+                                    <note xml:id="x028f1f7e-86c1-4531-b404-f7f9db9e4e03" pname="c" oct="4" dur="256"/>
+                                </layer>
+                            </staff>
+                        </measure>
+                    </section>
+                </score>
+            </mdiv>
+        </body>
+    </music>
+</mei>
